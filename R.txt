@@ -1,0 +1,14 @@
+catsearch <- read.csv("~/Dropbox/dissertation/EarthquakeSequential/catsearch.csv")
+df <- data.frame(long=catsearch$Longitude, lat=catsearch$Latitude)
+df1 <- df[600000:617870, ]
+library(fossil)
+d = earth.dist(df)
+km <- kmeans(d,centers=15)
+df1$clust <- km$cluster
+write.table(df1, file = "~/Dropbox/dissertation/EarthquakeSequential/df1.csv", sep = ",")
+centroids <- aggregate(df1, by=list(cluster=km$cluster), mean)
+write.csv(centroids, file="~/Dropbox/dissertation/EarthquakeSequential/centroids.csv")
+
+library(ggplot2)
+world <- map_data("world")
+ggplot(world)+geom_path(aes(x=long, y=lat, group=group))+geom_point(data=df1, aes(x=long, y=lat, color=factor(clust)), size=4)+scale_color_discrete("Cluster")+coord_fixed()
