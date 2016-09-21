@@ -1,4 +1,4 @@
-Unnamed: 0,Volcano_Number,Volcano_Name,Eruption_Number,Eruption_Category,Area_of_Activity,VEI,VEI_Modifier,Start_Year_Modifier,Start_Year,Start_Year_Uncertainty,Start_Month,Start_Day_Modifier,Start_Day,Start_Day_Uncertainty,Evidence_Method_(dating),End_Year_Modifier,End_Year,End_Year_Uncertainty,End_Month,End_Day_Modifier,End_Day,End_Day_Uncertainty,Latitude,Longitude,cluster,startdate
+,Volcano_Number,Volcano_Name,Eruption_Number,Eruption_Category,Area_of_Activity,VEI,VEI_Modifier,Start_Year_Modifier,Start_Year,Start_Year_Uncertainty,Start_Month,Start_Day_Modifier,Start_Day,Start_Day_Uncertainty,Evidence_Method_(dating),End_Year_Modifier,End_Year,End_Year_Uncertainty,End_Month,End_Day_Modifier,End_Day,End_Day_Uncertainty,Latitude,Longitude,cluster,startdate
 597,273030,Mayon,16810,Confirmed Eruption,,3,,,2001,,1,,8,,Historical Observations,,2001,,8,,8,,13.257,123.685,5,2001-01-08
 596,284040,Miyakejima,18274,Confirmed Eruption,,2,,,2001,,1,,11,,Historical Observations,,2002,,11,,24,,34.094,139.526,12,2001-01-11
 595,264090,Inielika,16258,Confirmed Eruption,Summit crater complex,2,,,2001,,1,,11,,Historical Observations,,2001,,3,?,0,,-8.73,120.98,5,2001-01-11
