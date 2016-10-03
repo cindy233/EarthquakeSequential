@@ -1,0 +1,46 @@
+Volcano_Number,Volcano_Name,Eruption_Number,Eruption_Category,Area_of_Activity,VEI,VEI_Modifier,Start_Year_Modifier,Start_Year,Start_Year_Uncertainty,Start_Month,Start_Day_Modifier,Start_Day,Start_Day_Uncertainty,Evidence_Method_(dating),End_Year_Modifier,End_Year,End_Year_Uncertainty,End_Month,End_Day_Modifier,End_Day,End_Day_Uncertainty,Latitude,Longitude,cluster,startdate,type
+342090,Fuego,10733,Confirmed Eruption,,2,,,2002,,1,,4,,Historical Observations,>,2016,,5,,26,,14.473,-90.88,14,2002-01-04,V
+233020,Fournaise  Piton de la,14382,Confirmed Eruption,NE part of l'Enclos Fouqu_ caldera,1,,,2002,,1,,5,,Historical Observations,,2002,,1,,16,,-21.244,55.708,2,2002-01-05,V
+251020,Manam,14930,Confirmed Eruption,South Crater,3,?,,2002,,1,,13,,Historical Observations,,2002,,5,,21,,-4.08,145.037,11,2002-01-13,V
+343100,San Miguel,10866,Confirmed Eruption,,1,,,2002,,1,,16,,Historical Observations,,2002,,1,,16,,13.434,-88.269,14,2002-01-16,V
+223030,Nyiragongo,14106,Confirmed Eruption,South flank (2800-1570 m)  summit crater,1,,,2002,,1,,17,,Historical Observations,,2002,,2,>,3,,-1.52,29.25,9,2002-01-17,V
+290360,Chikurachki,18855,Confirmed Eruption,SSE part of summit crater,2,,,2002,,1,,25,,Historical Observations,,2002,,4,?,22,,50.324,155.461,7,2002-01-25,V
+266100,Lokon-Empung,16461,Confirmed Eruption,Tompaluan,2,,,2002,,2,,9,,Historical Observations,,2002,,5,?,0,,1.358,124.792,6,2002-02-09,V
+257060,Epi,15331,Confirmed Eruption,,1,?,,2002,,3,,1,,Historical Observations,,2002,,3,,0,,-16.68,168.37,11,2002-03-01,V
+352020,Guagua Pichincha,11498,Confirmed Eruption,,1,?,,2002,,4,,1,,Historical Observations,,2002,,4,,0,,-0.171,-78.598,14,2002-04-01,V
+256010,Tinakula,15207,Confirmed Eruption,Upper NW flank,1,,,2002,,4,,1,,Historical Observations,,,,,,,,-10.38,165.8,11,2002-04-01,V
+300260,Klyuchevskoy,19479,Confirmed Eruption,,2,,,2002,,4,,9,,Historical Observations,,2002,,6,<,9,,56.056,160.642,7,2002-04-09,V
+282060,Kikai,17001,Confirmed Eruption,Iwo-dake,2,,,2002,,5,,11,,Historical Observations,,2002,,7,,0,,30.789,130.308,8,2002-05-11,V
+223030,Nyiragongo,14107,Confirmed Eruption,,2,,,2002,,5,?,17,,Historical Observations,>,2016,,3,,1,,-1.52,29.25,9,2002-05-17,V
+242050,Monowai,14718,Confirmed Eruption,,0,,,2002,,5,,24,,Hydrophonic,,2002,,5,,24,,-25.887,-177.188,11,2002-05-24,V
+252010,Langila,14998,Confirmed Eruption,Crater 2,2,,,2002,,5,?,25,,Historical Observations,,2003,,4,?,9,,-5.525,148.42,11,2002-05-25,V
+344020,San Cristobal,10889,Confirmed Eruption,,1,,,2002,,5,,29,,Historical Observations,,2002,,12,?,16,,12.702,-87.004,14,2002-05-29,V
+342110,Pacaya,19886,Confirmed Eruption,MacKenney Crater,1,?,,2002,,5,,30,,Historical Observations,,2002,,6,?,17,,14.381,-90.601,14,2002-05-30,V
+263340,Raung,16162,Confirmed Eruption,,2,,,2002,,6,<,1,,Historical Observations,,2002,,8,>,25,,-8.119,114.056,6,2002-06-01,V
+351080,Galeras,11376,Confirmed Eruption,El Pinta vent,1,?,,2002,,6,,7,,Historical Observations,,2002,,6,?,7,,1.22,-77.37,14,2002-06-07,V
+311161,Korovin,19765,Confirmed Eruption,,1,?,,2002,,7,<,1,,Historical Observations,,,,,,,,52.381,-174.166,5,2002-07-01,V
+390090,Saunders,13218,Confirmed Eruption,,0,,,2002,,7,?,1,,Historical Observations,,2002,,11,?,0,,-57.8,-26.483,3,2002-07-01,V
+223020,Nyamuragira,14082,Confirmed Eruption,Summit caldera  north & south flanks,2,?,,2002,,7,,25,,Historical Observations,,2002,,9,?,0,,-1.408,29.2,9,2002-07-25,V
+315020,Wrangell,20420,Confirmed Eruption,,1,,,2002,,8,,1,,Historical Observations,,2002,,8,,2,,62.006,-144.017,5,2002-08-01,V
+252080,Witori,15027,Confirmed Eruption,Pago (summit and NW flank),3,,,2002,,8,,3,,Historical Observations,,2003,,3,,26,25,-5.576,150.516,11,2002-08-03,V
+284090,Izu-Torishima,18372,Confirmed Eruption,Iwo-yama,2,,,2002,,8,,12,,Historical Observations,,2002,,8,,20,,30.484,140.303,7,2002-08-12,V
+252120,Ulawun,15066,Confirmed Eruption,,2,,,2002,,8,?,22,,Historical Observations,,2002,,11,,3,,-5.05,151.33,11,2002-08-22,V
+312070,Veniaminof,20173,Confirmed Eruption,Western intracaldera cone,1,,,2002,,9,,24,,Historical Observations,,2003,,3,,23,,56.17,-159.38,5,2002-09-24,V
+267010,Ruang,16493,Confirmed Eruption,,4,?,,2002,,9,,25,,Historical Observations,,2002,,9,?,29,,2.3,125.37,6,2002-09-25,V
+252140,Rabaul,15098,Confirmed Eruption,Tavurvur,2,,,2002,,10,?,6,,Historical Observations,,2004,,2,,17,,-4.271,152.203,11,2002-10-06,V
+273030,Mayon,16811,Confirmed Eruption,,1,,,2002,,10,,11,,Historical Observations,,2002,,10,,11,,13.257,123.685,8,2002-10-11,V
+352020,Guagua Pichincha,11499,Confirmed Eruption,,1,?,,2002,,10,,11,,Historical Observations,,2002,,12,,7,,-0.171,-78.598,14,2002-10-11,V
+264180,Lewotobi,16300,Confirmed Eruption,Lewotobi Lakilaki,1,,,2002,,10,,12,,Historical Observations,,2002,,10,?,12,,-8.542,122.775,6,2002-10-12,V
+357110,Llaima,12074,Confirmed Eruption,,1,,,2002,,10,,13,12,Historical Observations,,,,,,,,-38.692,-71.729,3,2002-10-13,V
+344040,Telica,10936,Confirmed Eruption,,0,,,2002,,10,,17,,Historical Observations,,,,,,,,12.602,-86.845,14,2002-10-17,V
+211060,Etna,13836,Confirmed Eruption,NE Rift (3100-1900 m)  S flank (2850-2600 m),3,,,2002,,10,,26,,Historical Observations,,2003,,1,,28,,37.734,15.004,9,2002-10-26,V
+355100,Lascar,11875,Confirmed Eruption,,2,,,2002,,10,,26,,Historical Observations,,2002,,10,,27,,-23.37,-67.73,3,2002-10-26,V
+251020,Manam,14931,Confirmed Eruption,,2,,,2002,,10,,31,,Historical Observations,,,,,,,,-4.08,145.037,11,2002-10-31,V
+242050,Monowai,14719,Confirmed Eruption,,0,,,2002,,11,,1,,Hydrophonic,,2002,,11,,24,,-25.887,-177.188,11,2002-11-01,V
+352010,Reventador,11446,Confirmed Eruption,Summit and SE flank (2600 m),4,,,2002,,11,,3,,Historical Observations,,2003,,1,?,10,,-0.077,-77.656,14,2002-11-03,V
+263100,Papandayan,15688,Confirmed Eruption,Kawah Baru  Kawah Nangklak,2,,,2002,,11,,11,,Historical Observations,,2002,,12,,19,3,-7.32,107.73,10,2002-11-11,V
+233020,Fournaise  Piton de la,14383,Confirmed Eruption,East flank of Dolomieu (1850-1540 m),2,,,2002,,11,,16,,Historical Observations,,2002,,12,,3,,-21.244,55.708,2,2002-11-16,V
+300260,Klyuchevskoy,19480,Confirmed Eruption,,2,,,2002,,11,,24,,Historical Observations,,2004,,4,,8,,56.056,160.642,7,2002-11-24,V
+272020,Kanlaon,16747,Confirmed Eruption,,1,,,2002,,11,,28,,Historical Observations,,2002,,11,,28,,10.412,123.132,6,2002-11-28,V
+266100,Lokon-Empung,16462,Confirmed Eruption,Tompaluan,2,,,2002,,12,,23,,Historical Observations,,2003,,4,,1,,1.358,124.792,6,2002-12-23,V
+300250,Bezymianny,19380,Confirmed Eruption,,2,,,2002,,12,,25,,Historical Observations,,2002,,12,?,28,,55.972,160.595,7,2002-12-25,V
